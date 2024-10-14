@@ -1,5 +1,5 @@
 branch-defaults:
   main:
-    environment: Studapp-env
+    environment: Studapp-env-2
 global:
   profile: null
